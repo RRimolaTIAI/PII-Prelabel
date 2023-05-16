@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: prelabel-ne
+Version: 0.2.1
+Summary: NER pre-labeling for Oracle projects.
+Author: Jari Peräkylä
+Author-email: jari.perakyla@telusinternational.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: gooey (>=1.0,<2.0)
+Requires-Dist: pandas (>=1.5,<2.0)
+Requires-Dist: psutil (>=5.9,<6.0)
+Requires-Dist: spacy (>=3.4,<4.0)

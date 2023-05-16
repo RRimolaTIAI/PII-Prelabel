@@ -1,0 +1,10 @@
+type 	spacy_entity    oracle_entity
+ner 	PERCENT	     	PERCENTAGE
+ner		MONEY	     	CURRENCY
+ner		FAC		     	FACILITY
+ner		LOC		     	NON_GPE
+ner		ORG		     	ORGANIZATION
+ner		PER		     	PERSON
+pii		TIME	     	DATE_TIME
+pii		DATE	     	DATE_TIME
+pii     PER             PERSON
